@@ -21,7 +21,7 @@ repository               : "chen-sijin/Sijin-Chen.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "images/profile.png"
   name             : "Sijin Chen (陈思晋)"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
