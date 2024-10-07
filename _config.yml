@@ -43,7 +43,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : https://github.com/chen-sijin
+  github           :   chen-sijin
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -55,9 +55,9 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : https://www.instagram.com/s1jin_chen/ # Username
+  instagram        :   s1jin_chen # Username
   lastfm           : # Username
-  linkedin         : https://www.linkedin.com/in/sijin-chen-508b30280/ # Username
+  linkedin         : sijin-chen # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
