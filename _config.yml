@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Sijin Chen (陈思晋)"
+  name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : "test"
-  location         : "Munich, Bavaria, Germany"
-  employer         : "Ludwig-Maximilians-Universität München"
-  uri              :  #https://chen-sijin.github.io/Sijin-Chen.github.io/   # URL
-  email            : "sijin@usm.lmu.de" 
+  bio              : "Short biography for the left-hand sidebar"
+  location         : "Earth"
+  employer         : "Red Brick University"
+  uri              : # URL
+  email            : "none@example.org" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
