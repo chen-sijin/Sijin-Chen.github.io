@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Sijin Chen / Personal Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Sijin Chen"
+description              : &description "Astrophysics master student from Ludwig-Maximilians-Universität München"
+url                      : https://sijin-chen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -27,7 +27,7 @@ author:
   bio              : "Short biography for the left-hand sidebar"
   location         : "Munich, Bavaria, Germany"
   employer         : "Ludwig-Maximilians-Universität München"
-  uri              :  https://github.com/chen-sijin   # URL
+  uri              :  https://chen-sijin.github.io/Sijin-Chen.github.io/   # URL
   email            : "sijin@usm.lmu.de" 
 
   # Academic websites
