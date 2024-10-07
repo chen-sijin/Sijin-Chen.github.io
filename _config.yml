@@ -12,7 +12,7 @@ title                    : "Sijin Chen / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Sijin Chen"
 description              : &description "Astrophysics master student from Ludwig-Maximilians-Universität München"
-url                      : https://chen-sijin.github.io/Sijin-Chen.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://chen-sijin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "chen-sijin/Sijin-Chen.github.io"
 
@@ -21,13 +21,13 @@ repository               : "chen-sijin/Sijin-Chen.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/profile.png"
+  avatar           : "profile.png"
   name             : "Sijin Chen (陈思晋)"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "test"
   location         : "Munich, Bavaria, Germany"
   employer         : "Ludwig-Maximilians-Universität München"
-  uri              :  https://chen-sijin.github.io/Sijin-Chen.github.io/   # URL
+  uri              :  #https://chen-sijin.github.io/Sijin-Chen.github.io/   # URL
   email            : "sijin@usm.lmu.de" 
 
   # Academic websites
