@@ -12,7 +12,7 @@ title                    : "Sijin Chen / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Sijin Chen"
 description              : &description "Astrophysics master student from Ludwig-Maximilians-Universität München"
-url                      : https://sijin-chen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://chen-sijin.github.io/Sijin-Chen.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "chen-sijin/Sijin-Chen.github.io"
 
