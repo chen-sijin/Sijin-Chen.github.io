@@ -62,4 +62,3 @@ Service and leadership
 ======
 * Currently signed in to 43 different slack teams
 
-* <embed src="{{ site.baseurl }}/files/yourdoc.pdf" width="600" height="700" type='application/pdf'> 
