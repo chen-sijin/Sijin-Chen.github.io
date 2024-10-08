@@ -50,7 +50,7 @@ Research experience
   * Supervisor: Prof.Xiaofeng Wang
 
 
-Course Project
+Course Projects
 ======
 **Gravitational Dynamics**
 * July, 2023 - August, 2023 in Ludwig-Maximilians-Universität München
@@ -72,6 +72,26 @@ Course Project
 
 
 ****
+
+Extra Curricular Activities
+======
+**Cambridge Winder Academic Program**
+* January, 2022 - February, 2022
+  * Grasped Machine Learning and basic knowledge of Quantum Computing, and took Grover’s Algorithm as an example to research what is QC good for and why
+
+**Statistical Physics and Complex Systems Summer School**
+* August, 2021
+  * Studied the application of statistical physics in molecular simulation, biophysical neural network, economics, finance
+
+**Cambridge Summber Academic Program**
+* July, 2021
+  * Learned Random-field Ising model, Random-field Ising model, Synergy and Bifurcations in Epidemics
+
+**MIT Quantum Physics Online Project-Based Learning Program**
+* October, 2020 - December, 2020
+  * Studied quantum mechanics and the development of quantum theory, earning grade A
+  * Calculated the expression of finite potential well with the Schrodinger equation, and showed the form of the final solution in graphs
+
 
 
   
