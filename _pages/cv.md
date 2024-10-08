@@ -97,7 +97,7 @@ Extra Curricular Activities
   
 Skills and Awards
 ======
-* Language: Englishi (Fluent), Chinese (Native)
+* Language: English (Fluent), Chinese (Native)
 * Computer skills: Python, MATLAB, LaTeX, C, C++, Linux
 * Awards: Canada Mitacs Globalink Research Internship Scholarship in 2021
 
