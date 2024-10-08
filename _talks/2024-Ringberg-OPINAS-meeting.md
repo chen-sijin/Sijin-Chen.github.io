@@ -9,3 +9,6 @@ location: "Munich, Bavaria"
 ---
 
 This is my first academic meeting! And it happened in a castle! My topic is about my master thesis project, using scattering transform method to constrain cosmological parameters. 
+
+
+![this is the Ringberg Meeting picture](../images/profile.png)
