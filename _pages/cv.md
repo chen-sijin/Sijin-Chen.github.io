@@ -52,28 +52,36 @@ Research experience
 
 Course Project
 ======
+**Gravitational Dynamics**
+* July, 2023 - August, 2023 in Ludwig-Maximilians-Universität München
+  * Explored the possibility of capturing a meteorite at Lagrangian 4 Point of Sun: set the initial state of the particle so that it is just transported to the Lagrangian point so that it is in that position, rotating around the sun like Jupiter
+  * Conclusion: circular motion is possible only when the minimum effective potential energy is equal to the total energy, which means there is no radial motion. A little deviation from that state will not lead to a perfect circular motion.
+
+
+**Hydrodynamics**
+* January, 2023 - February, 2023 in Ludwig-Maximilians-Universität München
+  * Nozzle Shape’s Influence on Acceleration: explore the influence of the shape of the nozzle throat on the effect of the nozzle, and the change of the speed of the particles before and after.
+  * Conclusion: the shape of the obstacle in nozzle phenomena has little effects on the profile of velocity increase and internal energy, pressure and density distribution profile. But the width of the nozzle gap width will have visible effects on velocity acceleration. And if the gap is too narrow and the path is long, it will probably cause choking, which will not have nozzle acceleration effect
+
+
 **Computational Physics**
 * September, 2021 - November, 2021 in Jilin University
-  * Derived electromagnetic fields from a magnetic dipole using Maxwell's equations.
-  * Used MATLAB to compute fields with cubic spline and Gauss-Legendre methods.
-  * ompared results with algebraic solutions.
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+  * Derived the algebraic expression of the electromagnetic field excited by the magnetic dipole source in the homogeneous medium and the corresponding integral expression from Maxwell equations and Hertz formula
+  * Used the cubic spline fitting integration method and Gauss-Legendre integration method separately and combined them to calculate the integral expression of the electric field and magnetic field in cylindrical coordinates with MATLAB
+  * Compared the accuracy of the results of these three calculations with the results of algebraic calculations
+
 
 ****
 
 
   
-Skills
+Skills and Awards
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Language: Englishi (Fluent), Chinese (Native)
+* Computer skills: Python, MATLAB, LaTeX, C, C++, Linux
+* Awards: Canada Mitacs Globalink Research Internship Scholarship in 2021
 
+<!--
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
@@ -94,5 +102,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams    -->
 
