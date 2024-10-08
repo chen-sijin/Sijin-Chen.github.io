@@ -16,22 +16,25 @@ Education
 
 Research experience
 ======
+**Scattering Transform Pipeline on Cosmological Constraints**
 * November, 2023 - present: Master thesis
   * University Observatory Munich
   * Utilized Morlet wavelet filters of varying scales and orientations to perform wavelet convolution on cosmological convergence square maps. Calculated the modulus of the convolved fields and used the scattering coefficients (mean value of the convolved map) to quantify the field’s fluctuations.
   * Applied Fisher Forecast analysis to derive cosmological constraints based on the scattering coefficients, providing insights into the relationship between field fluctuations and cosmological parameters.
   * Developed neural network-based emulators trained on cosmological simulations to predict scattering coefficients for different cosmologies. Used these emulators to perform MCMC sampling and obtain posterior distributions, thereby deriving precise cosmological constraints.
   * Implemented the emulators trained in different tomographic bins to conduct a tomographic analysis and ran MCMC again to obtain refined cosmological constraints across on cosmological parameters.
-  * Supervisors: Dr.Stella Seitz & Laurence(Zhengyangguang) Gong
+  * Supervisors: [Dr.Stella Seitz](https://www.usm.uni-muenchen.de/~stella/stella.html) & Laurence(Zhengyangguang) Gong
 
+**Time-dependent Kinetic Analysis of Positron-Hydrogen Collision Process**
 * December, 2021 - May, 2022: Bachelor thesis
   * Jilin University
   * Investigated the scattering problem of positron and hydrogen through time-dependent wave function evolution for both particles. Applied the five-point formula to obtain the hydrogen atom’s ground state wave function and expressed the system’s Hamiltonian on a position grid.
   * Used five-point formula to express kinetic energy term and got the Hydrogen atom ground state wave function
   * Expressed the Hamiltonian of Hydrogen and positron in momentum space
   * Brought the initial wave function of the whole positron and hydrogen into evolution function, used split operator to evolve and got final wave function
-  * Supervisor: Prof.Liguang Jiao
- 
+  * Supervisor: [Prof.Liguang Jiao](https://teachers.jlu.edu.cn/lgjiao)
+
+ **Influence of Target Membrane Material on Neutron Tube and Its Service Life**
 * May, 2020 - October, 2020: Research intern
   * Jilin University
   * Explored the influence of the target membrane material and its surface layer Deuterium-Tritium on the neutron yield and the service life of the neutron tube
@@ -39,12 +42,28 @@ Research experience
   * Got the conclusion that the neutron yield of lutetium-titanium alloy is the highest when the doping mass ratio is 0.2
   * Supervisor: Prof.Jingbin Lu
 
-
+**Materials Physics and Battery**
 * October, 2019 - January, 2020: Research intern
   * Jilin University
   * Prepared chlorophyll films of different thicknesses by the spin-coating method in a nitrogen environment, produced chlorophyll cells, and tested the conductivity of different film thicknesses
   * Analyzed the influence of rotation speeds on the chlorophyll film from collected data, and generalized the conductivity of the chlorophyll cell under different rotation speeds
   * Supervisor: Prof.Xiaofeng Wang
+
+
+Course Project
+======
+**Computational Physics**
+* September, 2021 - November, 2021 in Jilin University
+  * Derived electromagnetic fields from a magnetic dipole using Maxwell's equations.
+  * Used MATLAB to compute fields with cubic spline and Gauss-Legendre methods.
+  * ompared results with algebraic solutions.
+  * Sub-skill 2.2
+  * Sub-skill 2.3
+* Skill 3
+
+****
+
+
   
 Skills
 ======
