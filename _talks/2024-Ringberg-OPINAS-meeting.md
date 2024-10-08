@@ -21,6 +21,6 @@ Tegernsee is one of my favorite, as beautiful as a painting
 <img src="../images/2024-Ringberg-OPINAS-meeting/2024-Ringberg-OPINAS-meeting-lake.png"  style="zoom: 40%;" />
 
 Thanks Leon Ecker for recording my first academic talk!
-<img src="../images/2024-Ringberg-OPINAS-meeting/2024-Ringberg-OPINAS-meeting-mid.png"  style="zoom: 50%;" />
+<img src="../images/2024-Ringberg-OPINAS-meeting/2024-Ringberg-OPINAS-meeting-mid.png"  style="zoom: 45%;" />
 
 
