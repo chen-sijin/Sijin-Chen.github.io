@@ -40,14 +40,14 @@ Research experience
   * Explored the influence of the target membrane material and its surface layer Deuterium-Tritium on the neutron yield and the service life of the neutron tube
   * Mixed rare earth elements which can improve the alloy properties and possess good hydrogen storage effect into the titanium membrane material, used SRIM to figure out energy loss, calculated the neutron yield, compared with the performance of scandium, and found the most suitable doping metal
   * Got the conclusion that the neutron yield of lutetium-titanium alloy is the highest when the doping mass ratio is 0.2
-  * Supervisor: Prof.Jingbin Lu
+  * Supervisor: [Prof.Jingbin Lu](https://teachers.jlu.edu.cn/LuJingbin)
 
 **Materials Physics and Battery**
 * October, 2019 - January, 2020: Research intern
   * Jilin University
   * Prepared chlorophyll films of different thicknesses by the spin-coating method in a nitrogen environment, produced chlorophyll cells, and tested the conductivity of different film thicknesses
   * Analyzed the influence of rotation speeds on the chlorophyll film from collected data, and generalized the conductivity of the chlorophyll cell under different rotation speeds
-  * Supervisor: Prof.Xiaofeng Wang
+  * Supervisor: [Prof.Xiaofeng Wang](https://teachers.jlu.edu.cn/WangXiaofeng/zh_CN/index.htm)
 
 
 Course Projects
