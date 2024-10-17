@@ -11,4 +11,4 @@ Hello! I am a master student from University Observatory Munich ([USM](https://w
 
 I am very fortunate to be supervised by Dr.Stella Seitz and Laurence(Zhengyangguang) Gong from USM & Max Planck Institute for Extraterrestrial Physics ([MPE](https://www.mpe.mpg.de/main)) for my master thesis, ***Scattering transform method on cosmological parameter constraint***. I was supervised by Prof.Liguang Jiao from physics department in Jilin University for the bachelor thesis about ***One Dimensional Positron-Hydrogen Scattering***. 
 
-You can find my CV here: [Sijin's Curriculum Vitae](../files/CV_Sijin_Chen.pdf)
+You can find my CV here: [Curriculum Vitae](https://github.com/chen-sijin/Sijin-Chen.github.io/blob/master/files/CV_Sijin_Chen.pdf)
