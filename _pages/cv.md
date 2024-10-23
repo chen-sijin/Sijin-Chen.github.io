@@ -27,7 +27,7 @@ RESEARCH EXPERIENCE
   * Supervisors: [Dr.Stella Seitz](https://www.usm.uni-muenchen.de/~stella/stella.html) & Laurence(Zhengyangguang) Gong
  
 **RSD Effect on Projected Three-Point Statistics**
-* Research intern  <span style="float: right;"> Aug 2024 - present </span>
+* Research intern, University Observatory Munich  <span style="float: right;"> Aug 2024 - present </span>
   * Exploring how RSD of galaxies affects the projected three-point statistics.
   * Currently focusing on quantifying the impact of RSD on the integrated three-point correlation function (i3PCF) and to gain insights into galaxy clustering and cosmological parameters.
   * Supervisors: [Dr.Stella Seitz](https://www.usm.uni-muenchen.de/~stella/stella.html) & Dr. Anik Halder
