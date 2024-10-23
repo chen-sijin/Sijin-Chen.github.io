@@ -25,6 +25,13 @@ RESEARCH EXPERIENCE
   * Developed neural network-based emulators trained on cosmological simulations to predict scattering coefficients for different cosmologies. Used these emulators to perform MCMC sampling and obtain posterior distributions, thereby deriving precise cosmological constraints.
   * Implemented the emulators trained in different tomographic bins to conduct a tomographic analysis and ran MCMC again to obtain refined cosmological constraints across on cosmological parameters.
   * Supervisors: [Dr.Stella Seitz](https://www.usm.uni-muenchen.de/~stella/stella.html) & Laurence(Zhengyangguang) Gong
+ 
+**RSD Effect on Projected Three-Point Statistics**
+* Research intern  <span style="float: right;"> Aug 2024 - present </span>
+  * Exploring how RSD of galaxies affects the projected three-point statistics.
+  * Currently focusing on quantifying the impact of RSD on the integrated three-point correlation function (i3PCF) and to gain insights into galaxy clustering and cosmological parameters.
+  * Supervisors: [Dr.Stella Seitz](https://www.usm.uni-muenchen.de/~stella/stella.html) & Dr. Anik Halder
+
 
 **Time-dependent Kinetic Analysis of Positron-Hydrogen Collision Process**
 * Bachelor thesis, Jilin University  <span style="float: right;"> Dec 2021 - May 2022 </span>
