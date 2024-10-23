@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+
+
+
 EDUCATION 
 ======
 * M.S. in Astrophysics, Ludwig-Maximilians-Universität München  <span style="float: right;">_2022 - present_</span>
