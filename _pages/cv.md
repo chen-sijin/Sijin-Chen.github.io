@@ -115,11 +115,11 @@ ical Lab, and statistical analysis including Bayesian analysis.
 * Often-used Packages: PyTorch, emcee, ChainConsumer
 
   
-Skills and Awards
+<!--Skills and Awards
 ======
 * Language: English (Fluent), Chinese (Native)
 * Computer skills: Python, MATLAB, LaTeX, C, C++, Linux
-* Awards: Canada Mitacs Globalink Research Internship Scholarship in 2021
+* Awards: Canada Mitacs Globalink Research Internship Scholarship in 2021 -->
 
 
 <!--
