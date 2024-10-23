@@ -94,6 +94,15 @@ EXTRA CURRICULAR ACTIVITIES
 * Studied quantum mechanics and the development of quantum theory, earning grade A
 * Calculated the expression of finite potential well with the Schrodinger equation, and showed the form of the final solution in graphs
 
+HONORS & AWARDS
+=====
+* Canada Mitacs Globalink Research Internship Scholarship  <span style="float: right;"> Oct 2021 </span>
+* First Prize Scholarship, Jilin University (Top 5%) <span style="float: right;"> Sept 2020 </span>
+* Merit Student  <span style="float: right;"> Jun 2020 </span>
+* Outstanding Student Leader  <span style="float: right;"> May 2020 </span>
+* Outstanding Volunteer  <span style="float: right;"> Oct 2019 </span>
+* Second Prize Scholarship, Jilin University (Top 10%) <span style="float: right;"> Sept 2019 </span> 
+
 
 
 COMPUTER SKILLS
