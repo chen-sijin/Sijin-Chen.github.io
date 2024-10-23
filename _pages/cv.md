@@ -11,13 +11,13 @@ redirect_from:
 
 Education
 ======
-* M.S. in astrophysics, Ludwig-Maximilians-Universität München  <span style="float: right;">2022 - present</span>
-* B.S. in physics, Jilin University <span style="float: right;"> 2018 - 2022 </span> 
+* M.S. in astrophysics, Ludwig-Maximilians-Universität München  <span style="float: right;">_2022 - present_</span>
+* B.S. in physics, Jilin University <span style="float: right;"> _2018 - 2022_ </span> 
 
 Research experience
 ======
 **Scattering Transform Pipeline on Cosmological Constraints**
-* November, 2023 - present: Master thesis   <span style="float: right;"> Nov 2023 - present </span>
+* Master thesis   <span style="float: right;"> Nov 2023 - present </span>
   * University Observatory Munich
   * Utilized Morlet wavelet filters of varying scales and orientations to perform wavelet convolution on cosmological convergence square maps. Calculated the modulus of the convolved fields and used the scattering coefficients (mean value of the convolved map) to quantify the field’s fluctuations.
   * Applied Fisher Forecast analysis to derive cosmological constraints based on the scattering coefficients, providing insights into the relationship between field fluctuations and cosmological parameters.
@@ -26,7 +26,7 @@ Research experience
   * Supervisors: [Dr.Stella Seitz](https://www.usm.uni-muenchen.de/~stella/stella.html) & Laurence(Zhengyangguang) Gong
 
 **Time-dependent Kinetic Analysis of Positron-Hydrogen Collision Process**
-* December, 2021 - May, 2022: Bachelor thesis
+* December, 2021 - May, 2022: Bachelor thesis  <span style="float: right;"> Dec 2021 - May 2022 </span>
   * Jilin University
   * Investigated the scattering problem of positron and hydrogen through time-dependent wave function evolution for both particles. Applied the five-point formula to obtain the hydrogen atom’s ground state wave function and expressed the system’s Hamiltonian on a position grid.
   * Used five-point formula to express kinetic energy term and got the Hydrogen atom ground state wave function
