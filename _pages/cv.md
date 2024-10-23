@@ -87,12 +87,22 @@ Extra Curricular Activities
 
 
 
+COMPUTER SKILLS
+=====
+* Python: 4 and a half years experience including master thesis project. Numerical course projects, data handling in Astrophys-
+ical Lab, and statistical analysis including Bayesian analysis.
+* C/C++: 2 years of experience with bachelor’s course project and simulations in gravitational dynamics course.
+* MATLAB: 1 year of experience utilizing MATLAB for computational physics coursework and bachelor thesis project.
+* Other computational skills: \LaTeX, Mathematica, Origin, MS packages
+* Often-used Packages: PyTorch, emcee, ChainConsumer
+
   
 Skills and Awards
 ======
 * Language: English (Fluent), Chinese (Native)
 * Computer skills: Python, MATLAB, LaTeX, C, C++, Linux
 * Awards: Canada Mitacs Globalink Research Internship Scholarship in 2021
+
 
 <!--
 Publications
