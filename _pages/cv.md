@@ -19,7 +19,7 @@ EDUCATION
 RESEARCH EXPERIENCE
 ======
 **Scattering Transform Pipeline on Cosmological Constraints**
-* Master thesis, University Observatory Munich & Max Planck Institute for extraterrestrial Physics  <span style="float: right;"> Nov 2023 - present </span>
+* Master thesis, University Observatory Munich & Max Planck Institute for Extraterrestrial Physics  <span style="float: right;"> Nov 2023 - present </span>
   * Utilized Morlet wavelet filters of varying scales and orientations to perform wavelet convolution on cosmological convergence square maps. Calculated the modulus of the convolved fields and used the scattering coefficients (mean value of the convolved map) to quantify the field’s fluctuations.
   * Applied Fisher Forecast analysis to derive cosmological constraints based on the scattering coefficients, providing insights into the relationship between field fluctuations and cosmological parameters.
   * Developed neural network-based emulators trained on cosmological simulations to predict scattering coefficients for different cosmologies. Used these emulators to perform MCMC sampling and obtain posterior distributions, thereby deriving precise cosmological constraints.
@@ -27,7 +27,7 @@ RESEARCH EXPERIENCE
   * Supervisors: [Dr.Stella Seitz](https://www.usm.uni-muenchen.de/~stella/stella.html) & Laurence(Zhengyangguang) Gong
  
 **RSD Effect on Projected Three-Point Statistics**
-* Research intern, University Observatory Munich & Max Planck Institute for extraterrestrial Physics  <span style="float: right;"> Aug 2024 - present </span>
+* Research intern, University Observatory Munich & Max Planck Institute for Extraterrestrial Physics  <span style="float: right;"> Aug 2024 - present </span>
   * Exploring how RSD of galaxies affects the projected three-point statistics.
   * Currently focusing on quantifying the impact of RSD on the integrated three-point correlation function (i3PCF) and to gain insights into galaxy clustering and cosmological parameters.
   * Supervisors: [Dr.Stella Seitz](https://www.usm.uni-muenchen.de/~stella/stella.html) & Dr. Anik Halder
