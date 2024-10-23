@@ -70,7 +70,7 @@ COURSE PROJECTS
 
 ****
 
-Extra Curricular Activities
+EXTRA CURRICULAR ACTIVITIES
 ======
 **Cambridge Winder Academic Program**  <span style="float: right;"> Jan 2022 - Feb 2022 </span>
 * Grasped Machine Learning and basic knowledge of Quantum Computing, and took Grover’s Algorithm as an example to research what is QC good for and why
