@@ -17,8 +17,7 @@ Education
 Research experience
 ======
 **Scattering Transform Pipeline on Cosmological Constraints**
-* Master thesis   <span style="float: right;"> Nov 2023 - present </span>
-  * University Observatory Munich
+* Master thesis, University Observatory Munich   <span style="float: right;"> Nov 2023 - present </span>
   * Utilized Morlet wavelet filters of varying scales and orientations to perform wavelet convolution on cosmological convergence square maps. Calculated the modulus of the convolved fields and used the scattering coefficients (mean value of the convolved map) to quantify the field’s fluctuations.
   * Applied Fisher Forecast analysis to derive cosmological constraints based on the scattering coefficients, providing insights into the relationship between field fluctuations and cosmological parameters.
   * Developed neural network-based emulators trained on cosmological simulations to predict scattering coefficients for different cosmologies. Used these emulators to perform MCMC sampling and obtain posterior distributions, thereby deriving precise cosmological constraints.
@@ -26,8 +25,7 @@ Research experience
   * Supervisors: [Dr.Stella Seitz](https://www.usm.uni-muenchen.de/~stella/stella.html) & Laurence(Zhengyangguang) Gong
 
 **Time-dependent Kinetic Analysis of Positron-Hydrogen Collision Process**
-* Bachelor thesis  <span style="float: right;"> Dec 2021 - May 2022 </span>
-  * Jilin University
+* Bachelor thesis, Jilin University  <span style="float: right;"> Dec 2021 - May 2022 </span>
   * Investigated the scattering problem of positron and hydrogen through time-dependent wave function evolution for both particles. Applied the five-point formula to obtain the hydrogen atom’s ground state wave function and expressed the system’s Hamiltonian on a position grid.
   * Used five-point formula to express kinetic energy term and got the Hydrogen atom ground state wave function
   * Expressed the Hamiltonian of Hydrogen and positron in momentum space
@@ -35,16 +33,14 @@ Research experience
   * Supervisor: [Prof.Liguang Jiao](https://teachers.jlu.edu.cn/lgjiao)
 
  **Influence of Target Membrane Material on Neutron Tube and Its Service Life**
-* Research intern <span style="float: right:"> May 2020 - Oct 2020 </span>
-  * Jilin University
+* Research intern, Jilin University <span style="float: right;"> May 2020 - Oct 2020 </span>
   * Explored the influence of the target membrane material and its surface layer Deuterium-Tritium on the neutron yield and the service life of the neutron tube
   * Mixed rare earth elements which can improve the alloy properties and possess good hydrogen storage effect into the titanium membrane material, used SRIM to figure out energy loss, calculated the neutron yield, compared with the performance of scandium, and found the most suitable doping metal
   * Got the conclusion that the neutron yield of lutetium-titanium alloy is the highest when the doping mass ratio is 0.2
   * Supervisor: [Prof.Jingbin Lu](https://teachers.jlu.edu.cn/LuJingbin)
 
 **Materials Physics and Battery**
-* Research intern <span style="float: right;"> Oct 2019 - Jan 2020 </span>
-  * Jilin University
+* Research intern, Jilin University <span style="float: right;"> Oct 2019 - Jan 2020 </span>
   * Prepared chlorophyll films of different thicknesses by the spin-coating method in a nitrogen environment, produced chlorophyll cells, and tested the conductivity of different film thicknesses
   * Analyzed the influence of rotation speeds on the chlorophyll film from collected data, and generalized the conductivity of the chlorophyll cell under different rotation speeds
   * Supervisor: [Prof.Xiaofeng Wang](https://teachers.jlu.edu.cn/WangXiaofeng/zh_CN/index.htm)
@@ -76,22 +72,18 @@ Course Projects
 
 Extra Curricular Activities
 ======
-**Cambridge Winder Academic Program**
-* January, 2022 - February, 2022
-  * Grasped Machine Learning and basic knowledge of Quantum Computing, and took Grover’s Algorithm as an example to research what is QC good for and why
+**Cambridge Winder Academic Program**  <span style="float: right;"> Jan 2022 - Feb 2022 </span>
+* Grasped Machine Learning and basic knowledge of Quantum Computing, and took Grover’s Algorithm as an example to research what is QC good for and why
 
-**Statistical Physics and Complex Systems Summer School**
-* August, 2021
-  * Studied the application of statistical physics in molecular simulation, biophysical neural network, economics, finance
+**Statistical Physics and Complex Systems Summer School**  <span style="float: right;"> Aug 2021 </span>
+* Studied the application of statistical physics in molecular simulation, biophysical neural network, economics, finance
 
-**Cambridge Summber Academic Program**
-* July, 2021
-  * Learned Random-field Ising model, Random-field Ising model, Synergy and Bifurcations in Epidemics
+**Cambridge Summber Academic Program**    <span style="float: right;"> Jul 2021 </span>
+* Learned Random-field Ising model, Random-field Ising model, Synergy and Bifurcations in Epidemics
 
-**MIT Quantum Physics Online Project-Based Learning Program**
-* October, 2020 - December, 2020
-  * Studied quantum mechanics and the development of quantum theory, earning grade A
-  * Calculated the expression of finite potential well with the Schrodinger equation, and showed the form of the final solution in graphs
+**MIT Quantum Physics Online Project-Based Learning Program**  <span style="float: right;"> Oct 2020 - Dec 2020 </span>
+* Studied quantum mechanics and the development of quantum theory, earning grade A
+* Calculated the expression of finite potential well with the Schrodinger equation, and showed the form of the final solution in graphs
 
 
 
