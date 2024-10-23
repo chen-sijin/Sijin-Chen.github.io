@@ -17,7 +17,7 @@ Education
 Research experience
 ======
 **Scattering Transform Pipeline on Cosmological Constraints**
-* November, 2023 - present: Master thesis
+* November, 2023 - present: Master thesis   <span style="float: right;"> Nov 2023 - present </span>
   * University Observatory Munich
   * Utilized Morlet wavelet filters of varying scales and orientations to perform wavelet convolution on cosmological convergence square maps. Calculated the modulus of the convolved fields and used the scattering coefficients (mean value of the convolved map) to quantify the field’s fluctuations.
   * Applied Fisher Forecast analysis to derive cosmological constraints based on the scattering coefficients, providing insights into the relationship between field fluctuations and cosmological parameters.
