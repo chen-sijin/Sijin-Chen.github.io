@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<br>   ; this is used as empty line
+<br>   <!-- this is used as empty line -->
 
 EDUCATION 
 ======
