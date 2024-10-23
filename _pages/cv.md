@@ -9,12 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+EDUCATION 
 ======
 * M.S. in Astrophysics, Ludwig-Maximilians-Universität München  <span style="float: right;">_2022 - present_</span>
 * B.S. in Physics, Jilin University <span style="float: right;"> _2018 - 2022_ </span> 
 
-Research experience
+RESEARCH EXPERIENCE
 ======
 **Scattering Transform Pipeline on Cosmological Constraints**
 * Master thesis, University Observatory Munich   <span style="float: right;"> Nov 2023 - present </span>
@@ -46,7 +46,7 @@ Research experience
   * Supervisor: [Prof.Xiaofeng Wang](https://teachers.jlu.edu.cn/WangXiaofeng/zh_CN/index.htm)
 
 
-Course Projects
+COURSE PROJECTS
 ======
 **Gravitational Dynamics**
 * Ludwig-Maximilians-Universität München  <span style="float: right;"> Jul 2023 - Aug 2023 </span>
@@ -93,7 +93,7 @@ COMPUTER SKILLS
 ical Lab, and statistical analysis including Bayesian analysis.
 * C/C++: 2 years of experience with bachelor’s course project and simulations in gravitational dynamics course.
 * MATLAB: 1 year of experience utilizing MATLAB for computational physics coursework and bachelor thesis project.
-* Other computational skills: **L**a**T**e**X**, Mathematica, Origin, MS packages
+* Other computational skills: LaTeX, Mathematica, Origin, MS packages
 * Often-used Packages: PyTorch, emcee, ChainConsumer
 
   
