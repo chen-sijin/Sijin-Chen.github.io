@@ -11,10 +11,10 @@ main:
   - title: "Talks"
     url: /talks/    
 
-  - title: "Honors"
-    url: /honors/
-  - title: "Teaching"
-    url: /teaching/    
+  # - title: "Honors"
+  #   url: /honors/
+  # - title: "Teaching"
+  #   url: /teaching/    
     
   # - title: "Portfolio"
   #   url: /portfolio/
