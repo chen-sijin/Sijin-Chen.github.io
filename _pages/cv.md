@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* M.S. in astrophysics, Ludwig-Maximilians-Universität München, 2022-present
+* M.S. in astrophysics, Ludwig-Maximilians-Universität München <div style="text-align: right"> 2022-present </div>
 * B.S. in physics, Jilin University, 2018-2022
 
 Research experience
