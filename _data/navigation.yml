@@ -13,8 +13,8 @@ main:
 
   - title: "Honors"
     url: /honors/
-  # - title: "Teaching"
-  #   url: /teaching/    
+  - title: "Teaching"
+    url: /teaching/    
     
   # - title: "Portfolio"
   #   url: /portfolio/
