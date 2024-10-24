@@ -2,7 +2,7 @@
 title: "2024 Munich Lensing Workshop"
 collection: talks
 type: "Conference proceedings talk"
-permalink: /talks/2024-03-24
+permalink: /talks/2024-11-14
 venue: "MIAPbP Seminar Room"
 date: 2024-11-14
 location: "Munich, Bavaria"
