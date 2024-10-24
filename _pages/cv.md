@@ -66,7 +66,7 @@ COURSE PROJECTS
 * Ludwig-Maximilians-Universität München  <span style="float: right;"> Jul 2023 - Aug 2023 </span>
   * Explored the possibility of capturing a meteorite at Lagrangian 4 Point of Sun: set the initial state of the particle so that it is just transported to the Lagrangian point so that it is in that position, rotating around the sun like Jupiter
   * Conclusion: circular motion is possible only when the minimum effective potential energy is equal to the total energy, which means there is no radial motion. A little deviation from that state will not lead to a perfect circular motion.
-  * [Course Report](../files/course_project/gravitational_dynamics/Gravitational_Dynamics_Sijin.pdf)
+  * <a href="https://chen-sijin.github.io/files/course_project/gravitational_dynamics/Gravitational_Dynamics_Sijin.pdf" target="_blank">Course Report</a>
 
 
 **Hydrodynamics**
