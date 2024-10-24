@@ -86,8 +86,8 @@ COURSE PROJECTS
 
 EXTRA CURRICULAR ACTIVITIES
 ======
-**Tonale Winter School on Cosmology 2024 by University of Heidelberg**
-* Topics relevant to theoretical and observational cosmology, "Theory for Observers & Observations for Theorists" <span style="float: right;"> Expected in Dec 2024 </span>
+**Tonale Winter School on Cosmology 2024 by University of Heidelberg**  <span style="float: right;"> Expected in Dec 2024 </span>
+* Topics relevant to theoretical and observational cosmology, "Theory for Observers & Observations for Theorists" 
 
 **Cambridge Winder Academic Program**  <span style="float: right;"> Jan 2022 - Feb 2022 </span>
 * Grasped Machine Learning and basic knowledge of Quantum Computing, and took Grover’s Algorithm as an example to research what is QC good for and why
