@@ -1,14 +1,14 @@
 ---
-title: "Scattering transform method on cosmological paramater constraint"
+title: "2024 Ringberg OPINAS meeting"
 collection: talks
 type: "Conference proceedings talk"
 permalink: /talks/2024-03-24
-venue: "2024 Ringberg OPINAS meeting"
+venue: "Ringberg"
 date: 2024-03-24
 location: "Munich, Bavaria"
 ---
 
-This is my first academic meeting! And it happened in a castle! My topic is about my master thesis project, using scattering transform method to constrain cosmological parameters. 
+This is my first academic meeting! The topic is about my master thesis project, _**Scattering transform method on cosmological paramater constraints**_. And it happened in a castle! My topic is about my master thesis project, using scattering transform method to constrain cosmological parameters. 
 
 
 <!--![Swimming pool in Ringberg](../images/2024-Ringberg-OPINAS-meeting/2024-Ringberg-OPINAS-meeting-pool.png)
