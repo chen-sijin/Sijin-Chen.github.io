@@ -15,5 +15,7 @@ You can find my CV here: [Curriculum Vitae](https://github.com/chen-sijin/Sijin-
 
 <!--[Sijin's Curriculum Vitae](https://github.com/chen-sijin/Sijin-Chen.github.io/blob/master/assets/CV_Sijin_Chen.pdf) -->
 
+<embed src="[your-pdf-file-path.pdf](https://github.com/chen-sijin/Sijin-Chen.github.io/tree/master/files/CV/CV_Sijin_Chen.pdf)" type="application/pdf" width="100%" height="600px" />
+
 
 
