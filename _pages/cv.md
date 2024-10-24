@@ -86,19 +86,24 @@ COURSE PROJECTS
 
 EXTRA CURRICULAR ACTIVITIES
 ======
-**Tonale Winter School on Cosmology 2024 by University of Heidelberg**  <span style="float: right;"> Expected in Dec 2024 </span>
+**Tonale Winter School on Cosmology 2024**  <span style="float: right;"> Expected in Dec 2024 </span>
+* University of Heidelberg
 * Topics relevant to theoretical and observational cosmology, "Theory for Observers & Observations for Theorists" 
 
-**Cambridge Winder Academic Program**  <span style="float: right;"> Jan 2022 - Feb 2022 </span>
+**Winder Academic Program**  <span style="float: right;"> Jan 2022 - Feb 2022 </span>
+* University of Cambridge
 * Grasped Machine Learning and basic knowledge of Quantum Computing, and took Grover’s Algorithm as an example to research what is QC good for and why
 
 **Statistical Physics and Complex Systems Summer School**  <span style="float: right;"> Aug 2021 </span>
+* Northeast Normal University
 * Studied the application of statistical physics in molecular simulation, biophysical neural network, economics, finance
 
-**Cambridge Summber Academic Program**    <span style="float: right;"> Jul 2021 </span>
+**Summber Academic Program**    <span style="float: right;"> Jul 2021 </span>
+* University of Cambridge
 * Learned Random-field Ising model, Random-field Ising model, Synergy and Bifurcations in Epidemics
 
-**MIT Quantum Physics Online Project-Based Learning Program**  <span style="float: right;"> Oct 2020 - Dec 2020 </span>
+**Quantum Physics Online Project-Based Learning Program**  <span style="float: right;"> Oct 2020 - Dec 2020 </span>
+* Massachusetts Institute of Technology
 * Studied quantum mechanics and the development of quantum theory, earning grade A
 * Calculated the expression of finite potential well with the Schrodinger equation, and showed the form of the final solution in graphs
 
