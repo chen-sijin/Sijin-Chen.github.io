@@ -20,10 +20,15 @@ RESEARCH EXPERIENCE
 ======
 **Scattering Transform Pipeline on Cosmological Constraints**
 * Master thesis, University Observatory Munich & Max Planck Institute for Extraterrestrial Physics  <span style="float: right;"> Nov 2023 - present </span>
-  * Utilized Morlet wavelet filters of varying scales and orientations to perform wavelet convolution on cosmological convergence square maps. Calculated the modulus of the convolved fields and used the scattering coefficients (mean value of the convolved map) to quantify the field’s fluctuations.
-  * Applied Fisher Forecast analysis to derive cosmological constraints based on the scattering coefficients, providing insights into the relationship between field fluctuations and cosmological parameters.
-  * Developed neural network-based emulators trained on cosmological simulations to predict scattering coefficients for different cosmologies. Used these emulators to perform MCMC sampling and obtain posterior distributions, thereby deriving precise cosmological constraints.
-  * Implemented the emulators trained in different tomographic bins to conduct a tomographic analysis and ran MCMC again to obtain refined cosmological constraints across on cosmological parameters.
+  * Wavelet convolution on weak lensing convergence maps.
+  * Performed cosmological parameter forecast with Fisher analysis using scattering coefficients (mean value of mod-
+ulus of convolved maps).
+  * Captured non-Gaussian information.
+  * Developed neural network-based emulators trained on CosmoGridV1 simulations to predict scattering coefficients
+for different cosmologies. Used these emulators to perform MCMC sampling and obtained posterior distributions,
+thereby deriving precise cosmological forecasts.
+  * Implemented the emulators trained in different tomographic bins and cosmologies with noise to conduct a tomo-
+graphic analysis, and derived cosmological constraints on observational data.
   * Supervisors: [Dr.Stella Seitz](https://www.usm.uni-muenchen.de/~stella/stella.html) & Laurence(Zhengyangguang) Gong
  
 **RSD Effect on Projected Three-Point Statistics**
@@ -81,6 +86,9 @@ COURSE PROJECTS
 
 EXTRA CURRICULAR ACTIVITIES
 ======
+**Tonale Winter School on Cosmology 2024 by University of Heidelberg**
+* Topics relevant to theoretical and observational cosmology, "Theory for Observers & Observations for Theorists" <span style="float: right;"> Expected in Dec 2024 </span>
+
 **Cambridge Winder Academic Program**  <span style="float: right;"> Jan 2022 - Feb 2022 </span>
 * Grasped Machine Learning and basic knowledge of Quantum Computing, and took Grover’s Algorithm as an example to research what is QC good for and why
 
