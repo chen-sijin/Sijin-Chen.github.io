@@ -14,7 +14,10 @@ I am very fortunate to be supervised by Dr.Stella Seitz and Laurence(Zhengyanggu
 You can find my CV here: [Curriculum Vitae](https://github.com/chen-sijin/Sijin-Chen.github.io/blob/master/assets/CV_Sijin_Chen.pdf). 
 
 <!--[Sijin's Curriculum Vitae](https://github.com/chen-sijin/Sijin-Chen.github.io/blob/master/assets/CV_Sijin_Chen.pdf) -->
-<a href="https://github.com/chen-sijin/Sijin-Chen.github.io/blob/master/assets/CV_Sijin_Chen.pdf"> download pdf</a>
+<iframe src="https://chen-sijin.github.io/Sijin-Chen.github.io/assets/CV_Sijin_Chen.pdf" width="100%" height="800px">
+    This browser does not support PDFs. Please download the PDF to view it: 
+    <a href="https://chen-sijin.github.io/Sijin-Chen.github.io/assets/CV_Sijin_Chen.pdf">Download PDF</a>.
+</iframe>
 
 
 
