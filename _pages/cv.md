@@ -29,13 +29,13 @@ for different cosmologies. Used these emulators to perform MCMC sampling and obt
 thereby deriving precise cosmological forecasts.
   * Implemented the emulators trained in different tomographic bins and cosmologies with noise to conduct a tomo-
 graphic analysis, and derived cosmological constraints on observational data.
-  * Supervisors: [Dr.Stella Seitz](https://www.usm.uni-muenchen.de/~stella/stella.html) & Laurence(Zhengyangguang) Gong
+  * Supervisors: [Dr. Stella Seitz](https://www.usm.uni-muenchen.de/~stella/stella.html) & Laurence(Zhengyangguang) Gong
  
 **RSD Effect on Projected Three-Point Statistics**
 * Research intern, University Observatory Munich & Max Planck Institute for Extraterrestrial Physics  <span style="float: right;"> Aug 2024 - present </span>
   * Exploring how RSD of galaxies affects the projected three-point statistics.
   * Currently focusing on quantifying the impact of RSD on the integrated three-point correlation function (i3PCF) and to gain insights into galaxy clustering and cosmological parameters.
-  * Supervisors: [Dr.Stella Seitz](https://www.usm.uni-muenchen.de/~stella/stella.html) & Dr. Anik Halder
+  * Supervisors: [Dr. Stella Seitz](https://www.usm.uni-muenchen.de/~stella/stella.html) & Dr. Anik Halder
 
 
 **Time-dependent Kinetic Analysis of Positron-Hydrogen Collision Process**
@@ -44,20 +44,20 @@ graphic analysis, and derived cosmological constraints on observational data.
   * Used five-point formula to express kinetic energy term and got the Hydrogen atom ground state wave function
   * Expressed the Hamiltonian of Hydrogen and positron in momentum space
   * Brought the initial wave function of the whole positron and hydrogen into evolution function, used split operator to evolve and got final wave function
-  * Supervisor: [Prof.Liguang Jiao](https://teachers.jlu.edu.cn/lgjiao)
+  * Supervisor: [Prof. Liguang Jiao](https://teachers.jlu.edu.cn/lgjiao)
 
  **Influence of Target Membrane Material on Neutron Tube and Its Service Life**
 * Research intern, Jilin University <span style="float: right;"> May 2020 - Oct 2020 </span>
   * Explored the influence of the target membrane material and its surface layer Deuterium-Tritium on the neutron yield and the service life of the neutron tube
   * Mixed rare earth elements which can improve the alloy properties and possess good hydrogen storage effect into the titanium membrane material, used SRIM to figure out energy loss, calculated the neutron yield, compared with the performance of scandium, and found the most suitable doping metal
   * Got the conclusion that the neutron yield of lutetium-titanium alloy is the highest when the doping mass ratio is 0.2
-  * Supervisor: [Prof.Jingbin Lu](https://teachers.jlu.edu.cn/LuJingbin)
+  * Supervisor: [Prof. Jingbin Lu](https://teachers.jlu.edu.cn/LuJingbin)
 
 **Materials Physics and Battery**
 * Research intern, Jilin University <span style="float: right;"> Oct 2019 - Jan 2020 </span>
   * Prepared chlorophyll films of different thicknesses by the spin-coating method in a nitrogen environment, produced chlorophyll cells, and tested the conductivity of different film thicknesses
   * Analyzed the influence of rotation speeds on the chlorophyll film from collected data, and generalized the conductivity of the chlorophyll cell under different rotation speeds
-  * Supervisor: [Prof.Xiaofeng Wang](https://teachers.jlu.edu.cn/WangXiaofeng/zh_CN/index.htm)
+  * Supervisor: [Prof. Xiaofeng Wang](https://teachers.jlu.edu.cn/WangXiaofeng/zh_CN/index.htm)
 
 
 COURSE PROJECTS
