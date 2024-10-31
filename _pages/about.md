@@ -15,10 +15,7 @@ You can find my CV here: [Curriculum Vitae](https://github.com/chen-sijin/Sijin-
 
 <!--<a href="https://chen-sijin/Sijin-Chen.github.io/blob/master/assets/CV_Sijin_Chen.pdf)" target="_blank">新地址</a> -->
 
-<a href="https://chen-sijin.github.io/Sijin-Chen.github.io/assets/CV_Sijin_Chen.pdf" target="_blank">点击这里查看我的CV</a>
-
-
-<a href="https://chen-sijin.github.io/assets/CV_Sijin_Chen.pdf" target="_blank">点击这里查看我的CV</a>
+<a href="https://chen-sijin.github.io/Sijin-Chen.github.io/files/CV/CV_Sijin_Chen.pdf" target="_blank">点击这里查看我的CV</a>
 
 
 
