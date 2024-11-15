@@ -10,4 +10,4 @@ location: "Munich, Bavaria"
 
 This is the workshop between three gravitational lensing groups in Munich. My topic is about _**Scattering transform method on cosmological parameter constraints**_
 
-This is my first formal talk, I really appreciate the suggestions from our group members, Stella, Arno, Raphael, Jan-Nikolas, especially Leon and David for helping me practice my talk!
+This is my first formal talk, I really appreciate the suggestions from senior people in our group, Stella, Arno, Raphael, Jan-Nikolas, especially Leon and David for helping me practice my talk!
