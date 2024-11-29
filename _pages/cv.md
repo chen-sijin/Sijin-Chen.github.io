@@ -87,9 +87,10 @@ COURSE PROJECTS
 
 EXTRA CURRICULAR ACTIVITIES
 ======
-**Tonale Winter School on Cosmology 2024**  <span style="float: right;"> Expected in Dec 2024 </span>
+**[Tonale Winter School on Cosmology 2024](https://indico.physi.uni-heidelberg.de/event/947/)**
+  <span style="float: right;"> Expected in Dec 2024 </span>
 * University of Heidelberg
-* Topics relevant to theoretical and observational cosmology, "Theory for Observers & Observations for Theorists" 
+* "Theory for Observers & Observations for Theorists": Dark Energy, Galaxy Clusters, Data Inference and Machine Learning, Testing Fundamental Physics with GWs. 
 
 **Winder Academic Program**  <span style="float: right;"> Jan 2022 - Feb 2022 </span>
 * University of Cambridge
