@@ -92,7 +92,7 @@ EXTRA CURRICULAR ACTIVITIES
 * University of Heidelberg
 * "Theory for Observers & Observations for Theorists": Dark Energy, Galaxy Clusters, Data Inference and Machine Learning, Testing Fundamental Physics with GWs. 
 
-**Winder Academic Program**  <span style="float: right;"> Jan 2022 - Feb 2022 </span>
+**Winter Academic Program**  <span style="float: right;"> Jan 2022 - Feb 2022 </span>
 * University of Cambridge
 * Grasped Machine Learning and basic knowledge of Quantum Computing, and took Grover’s Algorithm as an example to research what is QC good for and why
 
@@ -100,7 +100,7 @@ EXTRA CURRICULAR ACTIVITIES
 * Northeast Normal University
 * Studied the application of statistical physics in molecular simulation, biophysical neural network, economics, finance
 
-**Summber Academic Program**    <span style="float: right;"> Jul 2021 </span>
+**Summer Academic Program**    <span style="float: right;"> Jul 2021 </span>
 * University of Cambridge
 * Learned Random-field Ising model, Random-field Ising model, Synergy and Bifurcations in Epidemics
 
