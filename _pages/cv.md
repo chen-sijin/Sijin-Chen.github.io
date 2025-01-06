@@ -29,13 +29,13 @@ for different cosmologies. Used these emulators to perform MCMC sampling and obt
 thereby deriving precise cosmological forecasts.
   * Implemented the emulators trained in different tomographic bins and cosmologies with noise to conduct a tomo-
 graphic analysis, and derived cosmological constraints on observational data.
-  * Supervisors: [Dr. Stella Seitz](https://www.usm.uni-muenchen.de/~stella/stella.html) & Laurence (Zhengyangguang) Gong
+  * Supervisors: [Dr. Stella Seitz](https://www.usm.uni-muenchen.de/~stella/stella.html) & [Laurence (Zhengyangguang) Gong](https://lgong6g.github.io/)
  
 **RSD Effect on Projected Three-Point Statistics**
 * Research intern, University Observatory Munich & Max Planck Institute for Extraterrestrial Physics  <span style="float: right;"> Aug 2024 - present </span>
   * Exploring how RSD of galaxies affects the projected three-point statistics.
   * Currently focusing on quantifying the impact of RSD on the integrated three-point correlation function (i3PCF) and to gain insights into galaxy clustering and cosmological parameters.
-  * Supervisors: [Dr. Stella Seitz](https://www.usm.uni-muenchen.de/~stella/stella.html) & Dr. Anik Halder
+  * Supervisors: [Dr. Stella Seitz](https://www.usm.uni-muenchen.de/~stella/stella.html) & [Dr. Anik Halder](https://anikhalder.github.io/)
 
 
 **Time-dependent Kinetic Analysis of Positron-Hydrogen Collision Process**
