@@ -10,6 +10,8 @@ location: "Munich, Bavaria"
 
 This is my first academic meeting! The topic is about my master thesis project, _**Scattering transform method on cosmological paramater constraints**_. And it happened in a castle! My topic is about my master thesis project, using scattering transform method to constrain cosmological parameters.  
 
+This is the <a href="https://chen-sijin.github.io/Sijin-Chen.github.io/files/talk_slides/2024_Ringberg_talk.pdf" target="_blank">slide</a> of my talk this time. 
+
 
 <!--![Swimming pool in Ringberg](../images/2024-Ringberg-OPINAS-meeting/2024-Ringberg-OPINAS-meeting-pool.png)
 ![Tegernsee](../images/2024-Ringberg-OPINAS-meeting/2024-Ringberg-OPINAS-meeting-lake.png)
