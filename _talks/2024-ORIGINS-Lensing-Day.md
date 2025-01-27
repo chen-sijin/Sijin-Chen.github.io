@@ -8,7 +8,7 @@ date: 2024-11-14
 location: "Munich, Bavaria"
 ---
 
-This is the workshop between three gravitational lensing groups in Munich. My topic is about _**Scattering transform method on cosmological parameter constraints**_
+This is the [workshop](https://indico.ph.tum.de/event/7717/) between three gravitational lensing groups in Munich. My topic is about _**Scattering transform method on cosmological parameter constraints**_
 
 This is my first formal talk, I really appreciate the suggestions from senior people in our group, Stella, Arno, Raphael, Jan-Nikolas, especially Leon and David for helping me practice my talk!
 
