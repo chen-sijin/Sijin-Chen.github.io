@@ -8,7 +8,7 @@ date: 2025-02-26
 location: "Heidelberg, Baden-Württemberg"
 ---
 
-This is the [seminar](https://www.thphys.uni-heidelberg.de/index.php?lang=e) in [Prof. Luca Amendola's](https://lucaamendola.wordpress.com/) group in ITP Heidelberg. My topic is about _**Probe Weak Lensing Cosmology with Scattering Transform**_
+This is the seminar in [Prof. Luca Amendola's](https://lucaamendola.wordpress.com/) group in [ITP](https://www.thphys.uni-heidelberg.de/index.php?lang=e) Heidelberg. My topic is about _**Probe Weak Lensing Cosmology with Scattering Transform**_
 
 This is my first seminar outside Munich, invited by people in their group! I really love Heidelberg, and it's a very beautiful city. 
 
