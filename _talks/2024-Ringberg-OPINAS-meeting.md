@@ -1,7 +1,7 @@
 ---
 title: "2024 Ringberg OPINAS meeting"
 collection: talks
-type: "Conference proceedings talk"
+type: "Conference talk"
 permalink: /talks/2024-03-24
 venue: "Ringberg"
 date: 2024-03-24
