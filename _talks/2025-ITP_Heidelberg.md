@@ -15,3 +15,9 @@ This is my first seminar outside Munich, invited by people in their group! I rea
 
 
 This is the <a href="https://chen-sijin.github.io/Sijin-Chen.github.io/files/talk_slides/2025-ITP-Heidelberg.pdf" target="_blank">slide</a> of my talk this time. 
+
+The ITP building looks very nice, and the old castle look beutiful under the sunset
+
+<img src="../images/2025-ITP-Heidelberg-Seminar/ITP_building.jpg"  style="zoom: 40%;" />
+
+<img src="../images/2025-ITP-Heidelberg-Seminar/castle_Heidelberg.jpg"  style="zoom: 40%;" />
