@@ -29,7 +29,7 @@ for different cosmologies. Used these emulators to perform MCMC sampling and obt
 thereby deriving precise cosmological forecasts.
   * Implemented the emulators trained in different tomographic bins and cosmologies with noise to conduct a tomo-
 graphic analysis, and derived cosmological constraints on observational data.
-  * Supervisors: [Dr. Stella Seitz](https://www.usm.uni-muenchen.de/~stella/stella.html) & [Laurence (Zhengyangguang) Gong](https://lgong6g.github.io/)
+  * Supervisors: [Dr. Stella Seitz](https://www.usm.uni-muenchen.de/~stella/stella.html) & [Zhengyangguanggong (Laurence) Gong](https://lgong6g.github.io/)
  
 **RSD Effect on Projected Three-Point Statistics**
 * Research intern, University Observatory Munich & Max Planck Institute for Extraterrestrial Physics  <span style="float: right;"> Aug 2024 - present </span>
