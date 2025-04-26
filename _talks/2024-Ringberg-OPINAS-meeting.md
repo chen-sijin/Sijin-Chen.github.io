@@ -17,12 +17,15 @@ This is the <a href="https://chen-sijin.github.io/Sijin-Chen.github.io/files/tal
 ![Tegernsee](../images/2024-Ringberg-OPINAS-meeting/2024-Ringberg-OPINAS-meeting-lake.png)
 ![talk](../images/2024-Ringberg-OPINAS-meeting/2024-Ringberg-OPINAS-meeting-mid.png) -->
 This is a swimming pool in Ringberg. It looks really beautiful with snow-capped mountains in the distance, especially in a sunny day!
+
 <img src="../images/2024-Ringberg-OPINAS-meeting/2024-Ringberg-OPINAS-meeting-pool.png"  style="zoom: 40%;" />
 
 Tegernsee is one of my favorite, as beautiful as a painting
+
 <img src="../images/2024-Ringberg-OPINAS-meeting/2024-Ringberg-OPINAS-meeting-lake.png"  style="zoom: 40%;" />
 
 Thanks Leon Ecker for recording my first academic talk!
+
 <img src="../images/2024-Ringberg-OPINAS-meeting/2024-Ringberg-OPINAS-meeting-mid.png"  style="zoom: 45%;" />
 
 
