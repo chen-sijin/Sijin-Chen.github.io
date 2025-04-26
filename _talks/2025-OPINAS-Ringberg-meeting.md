@@ -4,7 +4,7 @@ collection: talks
 type: "Conference talk"
 permalink: /talks/2025-04-24
 venue: "Ringberg"
-date: 2025-04-24
+date: 2025-04-22 to 2025-04-25
 location: "Munich, Bavaria"
 ---
 
