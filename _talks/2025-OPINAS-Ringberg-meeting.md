@@ -14,7 +14,7 @@ This is the <a href="https://chen-sijin.github.io/Sijin-Chen.github.io/files/tal
 
 
 Again I am lucky to have the room facing Tegernsee!!(Only room 205 and 204 can have this view!). The cloud makes Tegernsee look nice
-<img src="../images/2025-Ringberg-OPINAS-Tegernsee/2025-Ringberg-Tegernsee.jpg"  style="zoom: 40%;" />
+<img src="../images/2025-Ringberg-OPINAS-Tegernsee/2025-Ringberg-Tegernsee.jpg"  style="zoom: 45%;" />
 
 This is the place where we played "werewolf" at last night of this meeting!
 <img src="../images/2025-Ringberg-OPINAS-meeting/2025-Ringberg-werewolf.jpg"  style="zoom: 45%;" />
