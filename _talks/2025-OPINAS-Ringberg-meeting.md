@@ -8,7 +8,7 @@ date: 2025-04-22 to 2025-04-25
 location: "Munich, Bavaria"
 ---
 
-This is my second Ringberg talk! The topic is about my master thesis project, _**Scattering transform method on cosmological paramater constraints**_. And it happened in a castle! My topic is about my master thesis project, using scattering transform method to constrain cosmological parameters.  
+This is my second Ringberg talk! The topic is about my master thesis project, _**Probe Weak Lensing Cosmology with Scattering Transform**_. And it happened in a castle! My topic is about my master thesis project, using scattering transform method to constrain cosmological parameters.  
 
 This is the <a href="https://chen-sijin.github.io/Sijin-Chen.github.io/files/talk_slides/2025_Ringberg_talk.pdf" target="_blank">slide</a> of my talk this time. 
 
