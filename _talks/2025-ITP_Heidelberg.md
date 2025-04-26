@@ -21,3 +21,10 @@ The ITP building looks very nice, and the old castle look beutiful under the sun
 <img src="../images/2025-ITP-Heidelberg-Seminar/ITP_building.jpg"  style="zoom: 40%;" />
 
 <img src="../images/2025-ITP-Heidelberg-Seminar/castle_Heidelberg.jpg"  style="zoom: 40%;" />
+
+<img src="../images/2025-ITP-Heidelberg-Seminar/2025-ITP-Castle.jpg"  style="zoom: 40%;" />
+
+<img src="../images/2025-ITP-Heidelberg-Seminar/2025-Heidelberg-sunset.jpg"  style="zoom: 40%;" />
+
+<img src="../images/2025-ITP-Heidelberg-Seminar/2025-Heidelberg-river.jpg"  style="zoom: 40%;" />
+
