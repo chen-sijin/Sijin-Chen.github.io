@@ -4,9 +4,11 @@ collection: talks
 type: "Conference talk"
 permalink: /talks/2025-04-24
 venue: "Ringberg"
-date: 2025-04-22 to 2025-04-25
+date: 2025-04-24
 location: "Munich, Bavaria"
 ---
+
+This Ringberg Conference lasts from **2025-04-22** to **2025-04-25**
 
 This is my second Ringberg talk! The topic is about my master thesis project, _**Probe Weak Lensing Cosmology with Scattering Transform**_. And it happened in a castle! My topic is about my master thesis project, using scattering transform method to constrain cosmological parameters.  
 
