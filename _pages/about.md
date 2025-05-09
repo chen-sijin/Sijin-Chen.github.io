@@ -15,6 +15,6 @@ You can find my CV here: <a href="https://chen-sijin.github.io/Sijin-Chen.github
 
 <!--<a href="https://chen-sijin/Sijin-Chen.github.io/blob/master/assets/CV_Sijin_Chen.pdf)" target="_blank">新地址</a> -->
 
-This is my master thesis <a href="https://chen-sijin.github.io/Sijin-Chen.github.io/files/thesis/Sijin_Master_Thesis.pdf" target="_blank">slide</a> 
+This is my master thesis <a href="https://chen-sijin.github.io/Sijin-Chen.github.io/files/thesis/Sijin_Master_Thesis.pdf" target="_blank">Master_Thesis</a> 
 
 
