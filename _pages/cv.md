@@ -47,7 +47,7 @@ RESEARCH EXPERIENCE
 * Research intern, Jilin University <span style="float: right;"> May 2020 - Oct 2020 </span>
   * Explored the influence of the target membrane material and its surface layer Deuterium-Tritium on the neutron yield and the service life of the neutron tube.
   * Mixed rare earth elements which can improve the alloy properties and possess good hydrogen storage effect into the titanium membrane material, used SRIM to figure out energy loss, calculated the neutron yield, compared with the performance of scandium, and found the most suitable doping metal.
-  * Got the conclusion that the neutron yield of lutetium-titanium alloy is the highest when the doping mass ratio is $0.2$.
+  * Got the conclusion that the neutron yield of lutetium-titanium alloy is the highest when the doping mass ratio is $ 0.2 $.
   * Supervisor: [Prof. Jingbin Lu](https://teachers.jlu.edu.cn/LuJingbin)
 
 **Materials Physics and Battery**
