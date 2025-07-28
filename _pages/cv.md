@@ -19,7 +19,7 @@ EDUCATION
 RESEARCH EXPERIENCE
 ======
 **Scattering Transform Pipeline on Cosmological Constraints**
-* Master thesis, University Observatory Munich & Max Planck Institute for Extraterrestrial Physics  <span style="float: right;"> Nov 2023 - present </span>
+* Master thesis, University Observatory Munich & Max Planck Institute for Extraterrestrial Physics  <span style="float: right;"> Nov 2023 - May 2025 </span>
   * Wavelet convolution on weak lensing convergence maps.
   * Performed cosmological parameter forecast with Fisher analysis using scattering coefficients (mean value of mod-
 ulus of convolved maps).
