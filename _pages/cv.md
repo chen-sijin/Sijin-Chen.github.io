@@ -38,22 +38,22 @@ RESEARCH EXPERIENCE
 **Time-dependent Kinetic Analysis of Positron-Hydrogen Collision Process**
 * Bachelor thesis, Jilin University  <span style="float: right;"> Dec 2021 - May 2022 </span>
   * Investigated the scattering problem of positron and hydrogen through time-dependent wave function evolution for both particles. Applied the five-point formula to obtain the hydrogen atom’s ground state wave function and expressed the system’s Hamiltonian on a position grid.
-  * Used five-point formula to express kinetic energy term and got the Hydrogen atom ground state wave function
-  * Expressed the Hamiltonian of Hydrogen and positron in momentum space
-  * Brought the initial wave function of the whole positron and hydrogen into evolution function, used split operator to evolve and got final wave function
+  * Used five-point formula to express kinetic energy term and got the Hydrogen atom ground state wave function.
+  * Expressed the Hamiltonian of Hydrogen and positron in momentum space.
+  * Brought the initial wave function of the whole positron and hydrogen into evolution function, used split operator to evolve and got final wave function.
   * Supervisor: [Prof. Liguang Jiao](https://teachers.jlu.edu.cn/lgjiao)
 
  **Influence of Target Membrane Material on Neutron Tube and Its Service Life**
 * Research intern, Jilin University <span style="float: right;"> May 2020 - Oct 2020 </span>
-  * Explored the influence of the target membrane material and its surface layer Deuterium-Tritium on the neutron yield and the service life of the neutron tube
-  * Mixed rare earth elements which can improve the alloy properties and possess good hydrogen storage effect into the titanium membrane material, used SRIM to figure out energy loss, calculated the neutron yield, compared with the performance of scandium, and found the most suitable doping metal
-  * Got the conclusion that the neutron yield of lutetium-titanium alloy is the highest when the doping mass ratio is 0.2
+  * Explored the influence of the target membrane material and its surface layer Deuterium-Tritium on the neutron yield and the service life of the neutron tube.
+  * Mixed rare earth elements which can improve the alloy properties and possess good hydrogen storage effect into the titanium membrane material, used SRIM to figure out energy loss, calculated the neutron yield, compared with the performance of scandium, and found the most suitable doping metal.
+  * Got the conclusion that the neutron yield of lutetium-titanium alloy is the highest when the doping mass ratio is $0.2$.
   * Supervisor: [Prof. Jingbin Lu](https://teachers.jlu.edu.cn/LuJingbin)
 
 **Materials Physics and Battery**
 * Research intern, Jilin University <span style="float: right;"> Oct 2019 - Jan 2020 </span>
-  * Prepared chlorophyll films of different thicknesses by the spin-coating method in a nitrogen environment, produced chlorophyll cells, and tested the conductivity of different film thicknesses
-  * Analyzed the influence of rotation speeds on the chlorophyll film from collected data, and generalized the conductivity of the chlorophyll cell under different rotation speeds
+  * Prepared chlorophyll films of different thicknesses by the spin-coating method in a nitrogen environment, produced chlorophyll cells, and tested the conductivity of different film thicknesses.
+  * Analyzed the influence of rotation speeds on the chlorophyll film from collected data, and generalized the conductivity of the chlorophyll cell under different rotation speeds.
   * Supervisor: [Prof. Xiaofeng Wang](https://teachers.jlu.edu.cn/WangXiaofeng/zh_CN/index.htm)
 
 
@@ -61,7 +61,7 @@ COURSE PROJECTS
 ======
 **Gravitational Dynamics**
 * Ludwig-Maximilians-Universität München  <span style="float: right;"> Jul 2023 - Aug 2023 </span>
-  * Explored the possibility of capturing a meteorite at Lagrangian 4 Point of Sun: set the initial state of the particle so that it is just transported to the Lagrangian point so that it is in that position, rotating around the sun like Jupiter
+  * Explored the possibility of capturing a meteorite at Lagrangian 4 Point of Sun: set the initial state of the particle so that it is just transported to the Lagrangian point so that it is in that position, rotating around the sun like Jupiter.
   * Conclusion: circular motion is possible only when the minimum effective potential energy is equal to the total energy, which means there is no radial motion. A little deviation from that state will not lead to a perfect circular motion.
   * <a href="https://chen-sijin.github.io/Sijin-Chen.github.io/files/course_project/gravitational_dynamics/Gravitational_Dynamics_Sijin.pdf" target="_blank">Course Report</a>
 <!--  href="https://chen-sijin.github.io/Sijin-Chen.github.io/assets/CV_Sijin_Chen.pdf" -->
@@ -70,14 +70,14 @@ COURSE PROJECTS
 **Hydrodynamics**
 * Ludwig-Maximilians-Universität München <span style="float: right;"> Jan 2023 - Feb 2023 </span>
   * Nozzle Shape’s Influence on Acceleration: explore the influence of the shape of the nozzle throat on the effect of the nozzle, and the change of the speed of the particles before and after.
-  * Conclusion: the shape of the obstacle in nozzle phenomena has little effects on the profile of velocity increase and internal energy, pressure and density distribution profile. But the width of the nozzle gap width will have visible effects on velocity acceleration. And if the gap is too narrow and the path is long, it will probably cause choking, which will not have nozzle acceleration effect
+  * Conclusion: the shape of the obstacle in nozzle phenomena has little effects on the profile of velocity increase and internal energy, pressure and density distribution profile. But the width of the nozzle gap width will have visible effects on velocity acceleration. And if the gap is too narrow and the path is long, it will probably cause choking, which will not have nozzle acceleration effect.
 
 
 **Computational Physics**
 * Jilin University  <span style="float: right;"> Sept 2021 - Nov 2021 </span>
-  * Derived the algebraic expression of the electromagnetic field excited by the magnetic dipole source in the homogeneous medium and the corresponding integral expression from Maxwell equations and Hertz formula
-  * Used the cubic spline fitting integration method and Gauss-Legendre integration method separately and combined them to calculate the integral expression of the electric field and magnetic field in cylindrical coordinates with MATLAB
-  * Compared the accuracy of the results of these three calculations with the results of algebraic calculations
+  * Derived the algebraic expression of the electromagnetic field excited by the magnetic dipole source in the homogeneous medium and the corresponding integral expression from Maxwell equations and Hertz formula.
+  * Used the cubic spline fitting integration method and Gauss-Legendre integration method separately and combined them to calculate the integral expression of the electric field and magnetic field in cylindrical coordinates with MATLAB.
+  * Compared the accuracy of the results of these three calculations with the results of algebraic calculations.
 
 
 ****
