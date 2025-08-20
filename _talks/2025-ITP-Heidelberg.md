@@ -3,7 +3,7 @@ title: "2025 ITP Heidelberg"
 collection: talks
 type: "Seminar"
 permalink: /talks/2025-02-26
-venue: "Institute for Theoretical Physics, Heidelberg"
+venue: "Institute for Theoretical Physics"
 date: 2025-02-26
 location: "Heidelberg, Baden-Württemberg"
 ---
