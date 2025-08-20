@@ -5,7 +5,7 @@ type: "Paper Presentation"
 permalink: /talks/2025-03-28
 venue: "Universitäts-Sternwarte München"
 date: 2025-03-28
-location: "Munich"
+location: "Munich, Bavaria"
 ---
 
 This is a Paper Presentation in USM Gravitational Lensing group. The topic is about this very interesting paper, [***Parity-Odd Power Spectra: Concise Statistics for Cosmological Parity Violation***](https://arxiv.org/abs/2406.15683).
