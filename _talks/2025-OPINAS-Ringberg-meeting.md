@@ -5,7 +5,7 @@ type: "Conference talk"
 permalink: /talks/2025-04-24
 venue: "Ringberg"
 date: 2025-04-24
-location: "Tegernsee, Bavaria, Munich"
+location: "Tegernsee, Munich, Bavaria"
 ---
 
 This Ringberg Conference lasts from *2025-04-22* to *2025-04-25*
