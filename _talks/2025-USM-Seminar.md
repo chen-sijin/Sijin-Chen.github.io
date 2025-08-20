@@ -3,7 +3,7 @@ title: "2025 USM Gravitational Lensing Group Seminar"
 collection: talks
 type: "Paper Presentation"
 permalink: /talks/2025-03-28
-venue: "Universitäts-Sternwarte München, Munich"
+venue: "Universitäts-Sternwarte München"
 date: 2025-03-28
 location: "Munich"
 ---
