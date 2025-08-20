@@ -5,7 +5,7 @@ type: "Conference talk"
 permalink: /talks/2024-03-24
 venue: "Ringberg"
 date: 2024-03-24
-location: "Tegernsee, Bavaria, Munich"
+location: "Tegernsee, Munich, Bavaria"
 ---
 
 This is my first academic meeting! The topic is about my master thesis project, _**Scattering transform method on cosmological paramater constraints**_. And it happened in a castle! My topic is about my master thesis project, using scattering transform method to constrain cosmological parameters.  
