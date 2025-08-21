@@ -26,7 +26,7 @@ RESEARCH EXPERIENCE
   * Developed neural network-based emulators trained on CosmoGridV1 simulations to predict scattering coefficients for different cosmologies. Used these emulators to perform MCMC sampling and obtained posterior distributions, thereby deriving precise cosmological constraints.
   * Implemented the emulators trained in different tomographic bins and cosmologies with systematic effects, like galaxy shape noise, intrinsic alignment, multiplicative bias, baryonic feedback and photometric redshift uncertainty,  to conduct a tomographic analysis, and deriving cosmological constraints on mock data.
   * Cosmological constraints on masked mock data yielded $\Omega_{m} = 0.275^{+0.049}_{-0.060}$, $\sigma_{8} = 0.825^{+0.081}_{-0.092}$, $S_{8} = 0.776^{+0.045}_{-0.049}$, achieving 48%, 37%, and 26% tighter constraints, respectively, compared to using the power spectrum alone.
-  * Supervisors: [Dr. Stella Seitz](https://www.usm.uni-muenchen.de/~stella/stella.html) & [Zhengyangguanggong (Laurence) Gong](https://lgong6g.github.io/)
+  * Supervisors: [Dr. Stella Seitz](https://www.usm.uni-muenchen.de/~stella/stella.html) & [Dr. Zhengyangguanggong (Laurence) Gong](https://lgong6g.github.io/)
  
 **RSD Effect on Projected Three-Point Statistics**
 * Research intern, University Observatory Munich & Max Planck Institute for Extraterrestrial Physics  <span style="float: right;"> Aug 2024 - present </span>
