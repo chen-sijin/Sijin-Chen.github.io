@@ -28,12 +28,13 @@ RESEARCH EXPERIENCE
   * Cosmological constraints on masked mock data yielded $\Omega_{m} = 0.275^{+0.049}_{-0.060}$, $\sigma_{8} = 0.825^{+0.081}_{-0.092}$, $S_{8} = 0.776^{+0.045}_{-0.049}$, achieving 48%, 37%, and 26% tighter constraints, respectively, compared to using the power spectrum alone.
   * Supervisors: [Dr. Stella Seitz](https://www.usm.uni-muenchen.de/~stella/stella.html) & [Dr. Zhengyangguanggong (Laurence) Gong](https://lgong6g.github.io/)
  
-%**RSD Effect on Projected Three-Point Statistics**
-%* Research intern, University Observatory Munich & Max Planck Institute for Extraterrestrial Physics  <span style="float: right;"> Aug 2024 - present </span>
-%  * Exploring how RSD of galaxies affects the projected three-point statistics.
-%  * Currently focusing on quantifying the impact of RSD on the integrated three-point correlation function (i3PCF) and to gain insights into galaxy clustering and cosmological parameters.
-%  * Supervisors: [Dr. Stella Seitz](https://www.usm.uni-muenchen.de/~stella/stella.html) & [Dr. Anik Halder](https://anikhalder.github.io/)
-
+<!--
+**RSD Effect on Projected Three-Point Statistics**
+  * Research intern, University Observatory Munich & Max Planck Institute for Extraterrestrial Physics  <span style="float: right;"> Aug 2024 - present </span>
+  * Exploring how RSD of galaxies affects the projected three-point statistics.
+  * Currently focusing on quantifying the impact of RSD on the integrated three-point correlation function (i3PCF) and to gain insights into galaxy clustering and cosmological parameters.
+  * Supervisors: [Dr. Stella Seitz](https://www.usm.uni-muenchen.de/~stella/stella.html) & [Dr. Anik Halder](https://anikhalder.github.io/)
+-->
 
 **Time-dependent Kinetic Analysis of Positron-Hydrogen Collision Process**
 * Bachelor thesis, Jilin University  <span style="float: right;"> Dec 2021 - May 2022 </span>
