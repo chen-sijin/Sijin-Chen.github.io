@@ -8,7 +8,7 @@ date: 2025-09-17
 location: "Munich, Bayern"
 ---
 
-This is the cosmology meeting in between Munich region and Cambridge. My topic is about _**Probe Parity Violation with Weak Lensing Trispectrum**_
+This is the cosmology meeting in between Munich region and Cambridge. This Cambridge-LMU Cosmology Meeting lasts from 2025-09-16 to 2025-09-18. My topic is about _**Probe Parity Violation with Weak Lensing Trispectrum**_
 
 
 
