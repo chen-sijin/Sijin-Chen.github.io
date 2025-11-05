@@ -11,7 +11,7 @@ location: "Munich, Bayern"
 This is the cosmology and large scale structure workshop in Munich region and other research institutes. This Munich LSS Days lasts from 2025-10-20 to 2025-10-21. My topic is about _**Probe Parity Violation with Weak Lensing Trispectrum**_
  
 
-This is the <a href="https://chen-sijin.github.io/Sijin-Chen.github.io/files/talk_slides/2025-Cambridge-LMU_WL_trispectrum.pdf" target="_blank">slide</a> of my talk this time. 
+This is the <a href="https://chen-sijin.github.io/Sijin-Chen.github.io/files/talk_slides/2025_Munich_Large_Scale_Structure_Days.pdf" target="_blank">slide</a> of my talk this time. 
 
 
 <!--
