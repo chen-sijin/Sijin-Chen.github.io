@@ -18,6 +18,15 @@ EDUCATION
 
 RESEARCH EXPERIENCE
 ======
+**Parity Violation Detection Using Weak Lensing Trispectrum**
+* Research project, University Observatory Munich & Max Planck Institute for Extraterrestrial Physics  <span style="float: right;"> May 2025 - Present </span>
+  * Developed an analytical framework to compute the weak lensing convergence trispectrum based on a primordial curvature trispectrum template.
+  * Derived theoretical expressions for both the full and reduced trispectrum.
+  * Performed analytical calculations of the expected signal-to-noise ratio (SNR) for configurations where four points lie within the same or across different tomographic bins.
+  * Found that the predicted SNR is largest when all points are in the same bin and smallest when distributed across bins, with a theoretical maximum of $1.2$.
+
+
+
 **Scattering Transform Pipeline on Cosmological Constraints**
 * Master thesis, University Observatory Munich & Max Planck Institute for Extraterrestrial Physics  <span style="float: right;"> Nov 2023 - May 2025 </span>
   * Wavelet convolution on weak lensing convergence maps.
