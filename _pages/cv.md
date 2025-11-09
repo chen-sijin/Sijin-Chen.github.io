@@ -24,6 +24,7 @@ RESEARCH EXPERIENCE
   * Derived theoretical expressions for both the full and reduced trispectrum.
   * Performed analytical calculations of the expected signal-to-noise ratio (SNR) for configurations where four points lie within the same or across different tomographic bins.
   * Found that the predicted SNR is largest when all points are in the same bin and smallest when distributed across bins, with a theoretical maximum of $1.2$.
+  * Advisors: [Dr. Zhengyangguanggong (Laurence) Gong](https://lgong6g.github.io/) & [Dr. Jiamin Hou](https://www.mpe.mpg.de/~octobers/)
 
 
 
