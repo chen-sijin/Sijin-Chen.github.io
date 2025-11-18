@@ -1,7 +1,7 @@
 ---
-title: "2025 Munich Large-Scale Structure Days"
+title: "Parity from Home 2025"
 collection: talks
-type: "Workshop"
+type: "Conference"
 permalink: /talks/2025-11-18 - 2025-11-21
 venue: "Online Conference"
 date: 2025-11-18
